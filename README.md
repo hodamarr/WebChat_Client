@@ -21,9 +21,9 @@ client side:
     "web-vitals": "^2.1.4"
 
 How to run it:
-- run WebChatServer project from https://github.com/user/repo/blob/branch/other_file.md
-- run Web_App project from https://github.com/user/repo/blob/branch/other_file.md
-- run webChat_client from https://github.com/user/repo/blob/branch/other_file.md
+- [run WebChatServer project](https://github.com/hodamarr/SeverEx2.git)
+- [run Web_App project from](https://github.com/hodamarr/SeverEx2/tree/main/Web_App)
+- [run webChat_client from](https://github.com/hodamarr/WebChat_Client.git)
 
 How to play in webChat_client:
 - Sign Up user:
